@@ -83,7 +83,7 @@ function verifyChain(blockchain) {
 			return false;
 		}
 
-		// checks block link
+		// checks block links
 		if (block.index > 0 && block.prevHash !== prevBlockHash) {
 			console.log(`Error r87, node ${block.index}`);
 			return false;

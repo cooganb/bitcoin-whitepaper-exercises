@@ -1,0 +1,15 @@
+{
+  "name": "incentives",
+  "version": "1.0.0",
+  "description": "In this exercise, our focus is on the incentives we can use to motivate the time and resources spent running a blockchain node. We'll do this in a simple (greedy) way by implementing a selection algorithm for picking transactions to add to the blockchain that maximizes our payoff from transaction/block fees for each block we create.",
+  "main": "incentives.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openpgp": "^3.0.1"
+  }
+}

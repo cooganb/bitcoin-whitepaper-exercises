@@ -1,0 +1,7 @@
+{
+	"name": "exercises-incentives",
+	"main": "incentives.js",
+	"dependencies": {
+		"openpgp": "~3.0.8"
+	}
+}
